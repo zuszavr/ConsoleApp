@@ -2,6 +2,7 @@
 bool ll = false;
 bool wl = false;
 
+
 wybor(true);
 
 
